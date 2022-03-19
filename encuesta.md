@@ -1,0 +1,1 @@
+La expectativa que tengo es poder aprender lo basico de Python y poder desarrollar una aplicacion fullstack de 3 capas. Y ver como es trabar en un proyecto mas o menos parecido a la vida real.
